@@ -35,15 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrYaromenko&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrYaromenko&theme=radical" width="47%"/>
-</p>
-
----
-
 ### 📫 Contact Me
 
 - **Email**: [yaromenko.mail@gmail.com](yaromenko.mail@gmail.com)
