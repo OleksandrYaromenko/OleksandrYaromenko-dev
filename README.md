@@ -40,10 +40,16 @@
 
 ### 📫 Contact Me
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
-- **Twitter**: [twitter.com/your_profile](https://twitter.com/your_profile)
+- **Email**: [yaromenko.mail@gmail.com](yaromenko.mail@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/oleksandr-yaromenko/](https://www.linkedin.com/in/oleksandr-yaromenko/)
+
+- ### 🚀 Featured Projects
+
+- [My Portfolio Website](https://github.com/OleksandrYaromenko/portfolio) – built with Next.js & Tailwind
+- [Word Learning App](https://github.com/OleksandrYaromenko/word-app) – spaced repetition, cards, mini games
+
 
 ---
+![github-snake](https://github.com/OleksandrYaromenko/OleksandrYaromenko/blob/output/github-contribution-grid-snake.svg)
 
 *Thanks for visiting my profile! Have a great day 😊*
