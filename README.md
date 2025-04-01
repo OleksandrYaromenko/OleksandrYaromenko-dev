@@ -4,6 +4,8 @@
   🧑‍💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🚀 JavaScript & Next.js Lover
 </p>
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ---
 
 ### 💼 About Me
@@ -26,6 +28,8 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ---
 
@@ -42,11 +46,6 @@
 
 - **Email**: [yaromenko.mail@gmail.com](yaromenko.mail@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/oleksandr-yaromenko/](https://www.linkedin.com/in/oleksandr-yaromenko/)
-
-- ### 🚀 Featured Projects
-
-- [My Portfolio Website](https://github.com/OleksandrYaromenko/portfolio) – built with Next.js & Tailwind
-- [Word Learning App](https://github.com/OleksandrYaromenko/word-app) – spaced repetition, cards, mini games
 
 
 ---
