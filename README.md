@@ -50,7 +50,5 @@
 - **LinkedIn**: [https://www.linkedin.com/in/oleksandr-yaromenko/](https://www.linkedin.com/in/oleksandr-yaromenko/)
 
 
----
-![github-snake](https://github.com/OleksandrYaromenko/OleksandrYaromenko/blob/output/github-contribution-grid-snake.svg)
 
 *Thanks for visiting my profile! Have a great day 😊*
