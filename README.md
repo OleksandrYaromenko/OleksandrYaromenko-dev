@@ -2,18 +2,20 @@
 
 <p align="center">
   🧑‍💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🚀 JavaScript & Next.js Lover
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 ---
 
 ### 💼 About Me
 
-- 🔭 Currently working on personal frontend projects
-- 🌱 Learning and using modern technologies: **Next.js**, **Tailwind CSS**, **Node.js**
-- 💬 Ask me about JavaScript, React, component-based architecture, or clean UI
-- ⚡ Fun fact: I love turning complex ideas into simple, beautiful interfaces
+- 🔭 Currently working on personal frontend development projects  
+- 🌱 Actively learning and building with **Next.js**, **Tailwind CSS**, and **Node.js**  
+- 💬 Open to questions about JavaScript, React, component architecture, or clean UI/UX  
+- ⚡ Fun fact: I enjoy transforming complex ideas into simple, elegant user experiences
+
 
 ---
 
